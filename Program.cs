@@ -9,3 +9,5 @@ using (XmlReader reader = XmlReader.Create(@"C:\Users\cook\Downloads\dsad.xml"))
 
     }
 }
+
+NewNamespace.NewClass.NewMessage();
